@@ -1,0 +1,13 @@
+{
+  "description": "mapas de leaflet",
+  "keywords": ["lefaflet", "mapas"],
+  "author": "Eneri Aric <enearic@gmail.com>",
+
+  "main": "index",
+  
+  "dependencies": {
+    "leaflet-easyprint": "^2.1.9",
+    "leaflet.bigimage": "^1.0.1",
+    "leaflet.measurecontrol": "^1.1.0"
+  }
+}
